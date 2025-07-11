@@ -1,3 +1,48 @@
-So far this year, I developed a Python macro that generates an Excel file based on the information from another report. This macro has proven to be very useful, as it significantly speeds up the process and reduces the risk of human error.
+-----Set the Agenda
 
-I don’t consider this objective fully achieved yet, as I believe I can still implement Python in some of my other tasks.
+A few months ago, we implemented the 'Inventory Hygiene' report for the BA markets. 
+This report provides a clear overview of the inventory and helps the Operations teams understand the status of GDM cases, 
+ensuring they are worked in a timely and efficient manner.
+
+----
+
+
+My top priority is always to support the Operations teams. 
+Throughout the year, I receive requests for various types of reports, including cases such as merchants that went out of business, merchants that overcharged customers, or duplicate charges.
+These reports not only help the teams identify the root causes behind inventory increases, but also make it easier for them to resolve these cases efficiently.
+By providing this kind of support, I contribute to improving operational efficiency and reducing backlog, which ultimately helps drive better business outcomes.
+
+
+----
+
+-----Bring others with you
+
+I believe collaboration within the team is very important. It helps strengthen the team and allows us to learn from each other’s work. 
+At the moment, I’m using Python to develop a macro that will help one of my teammates optimize one of their tasks.
+I’m always open to sharing knowledge and supporting others whenever I can.
+
+----
+
+My collaboration goes beyond my own team and extends to colleagues from other teams as well. 
+Thanks to the GDM Python script setup, we were able to work together with another team to develop a tool that extracts the CLIC inventory 
+and organizes it in a way that can be easily shared with the Operations teams in a practical and effective format.
+
+----
+
+Recently, several new hires joined the Operations team, and I’ve been supporting them with the configuration of GDM and CLIC profiles during their OJT.
+By providing this support early on, I help ensure they get up to speed more effectively and feel confident using the tools from day one.
+
+
+-----Do it the right way
+
+Some time ago, I ran into issues with one of my tasks. 
+The process for uploading Argentina cases to Icare was facing difficulties. 
+The automation that retrieved the cases wasn’t working properly, and the backup query I used also had some errors. 
+I met with the PDI team to find a solution, and we discovered that the automation was failing due to data updates in Cornerstone. 
+We were able to fix the issue by adjusting the query so it could be run manually. Now, if the bot fails, we can still complete the upload process by running the query ourselves.
+This solution helped ensure continuity in the process and reduced our dependence on automation alone.
+By working closely with the PDI team, I was able to turn a recurring issue into a manageable workaround, ensuring the task gets done reliably.
+
+----
+
+
