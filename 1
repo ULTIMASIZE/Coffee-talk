@@ -80,3 +80,13 @@ And whenever I’ve had a question or needed something, he’s either been able 
   AND(A2>1000,A2<=5000),"1000 to 5000",
   A2>5000,"over 5001"
 )
+
+
+
+=IF(AND(A2>0,A2<=50),"0 to 50",
+IF(AND(A2>50,A2<=100),"51 to 100",
+IF(AND(A2>100,A2<=200),"101 to 200",
+IF(AND(A2>200,A2<=500),"201 to 500",
+IF(AND(A2>500,A2<=1000),"501 to 1000",
+IF(AND(A2>1000,A2<=5000),"1000 to 5000",
+IF(A2>5000,"over 5001","")))))))
